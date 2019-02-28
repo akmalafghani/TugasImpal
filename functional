@@ -1,0 +1,16 @@
+Nama Aplikasi : Sistem Informasi Minimarket
+
+Functional Requirements :
+Kasir :
+Log In pada form login
+Masuk ke sistem atau masuk ke form transaksi, kemudian melakukan transaksi jika pelanggan melakukan pemesanan,
+Jika terjadi transaksi, maka kasir akan melakukan inputan yaitu jumlah barang yang di beli, dan jenis barang.
+Untuk Admin:
+Log In pada  from login
+Admin dapat melakukan apa saja yang terdapat pada perangkat lunak:
+Dapat menambah data barang, menambah data karyawan data supplier, order barang, laporan stok barang, laporan order barang, laporan jumlah barang terjual, laporan laba-rugi. 
+Untuk manager:
+Log in pada form log in
+Masuk ke sistem atau masuk ke form laporan kemudian dapat melihat laporan per bulan
+Laporan berasal dari data-data yang telah diinputkan sebelumnya dan dari hasil transaksi
+
